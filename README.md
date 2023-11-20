@@ -12,8 +12,9 @@ Additionally, conducting a univariate study on product sale prices.
 * Handling errors and inconsistencies in stored data.
 * Classifying different types of data.
 * Conducting univariate analysis to interpret data.
-
-
+  
+## 📎 Data
+3 excel files are used in this project (CMS extract, ERP extract and a linkin file
 
 
 
