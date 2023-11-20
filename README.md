@@ -14,7 +14,7 @@ Additionally, conducting a univariate study on product sale prices.
 * Conducting univariate analysis to interpret data.
   
 ## 📎 Data
-3 excel files are used in this project (CMS extract, ERP extract and a linkin file
+3 excel files are used in this project (CMS extract, ERP extract and a linkin file)
 
 
 
